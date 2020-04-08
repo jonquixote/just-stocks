@@ -26,6 +26,7 @@ gem 'pg'
 
 gem 'dotenv-rails'
 
+gem 'bcrypt'
 gem 'rack-cors'
 gem 'grape'
 gem 'grape-active_model_serializers'
